@@ -45,8 +45,6 @@
 
 The area(A) of a circle can be calculated using the following formula: $$ A = \pi r^2 $$
 
-$$ A = \pi r^2 $$
-
 ## In-line Code
 
 I add backticks to create inline code: `inlined code`
